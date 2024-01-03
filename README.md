@@ -3,7 +3,7 @@
 - 🎓 I graduated with a Masters in Mechanical Engineering from the University of Surrey.
 - 📚 I completed my Data Analytics Training from AiCore.
 - 🌱 I am currently learning to use Python and Machine Learning for data cleaning and analysis.
-- 🤔 I’m looking for a Junior Data Analyst Role!
+- 🤔 I’m looking for a Junior Data Analyst Role in the Finance Sector!
 - 💬 Ask me about my AiCore Projects!
 - 📫 How to reach me:
   - Call me: 07445459530
